@@ -1,0 +1,3 @@
+rootProject.name = 'TpAnimatable4_4_2'
+
+include ':app'
